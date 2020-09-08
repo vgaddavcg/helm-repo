@@ -3,7 +3,7 @@ entries:
   vaprofile-common:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2020-09-08T17:15:39.684656-04:00"
+    created: "2020-09-08T17:20:19.174782-04:00"
     description: A Helm chart for vaprofile common services
     digest: 61d3b7141492463e1f82dee221c7c2b053b0c4d01e62f33040106ea55957dccf
     name: vaprofile-common
@@ -13,7 +13,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2020-09-08T17:15:39.684117-04:00"
+    created: "2020-09-08T17:20:19.172862-04:00"
     description: A Helm chart for vaprofile common services
     digest: 64bd9c952cd061892c06e96650a7e7d0b5f414b253cefe31e83242eb2f661564
     name: vaprofile-common
@@ -21,4 +21,4 @@ entries:
     urls:
     - vaprofile-common-0.1.0.tgz
     version: 0.1.0
-generated: "2020-09-08T17:15:39.681916-04:00"
+generated: "2020-09-08T17:20:19.171619-04:00"
