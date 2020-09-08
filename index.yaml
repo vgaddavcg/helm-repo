@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  vaprofile-common:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2020-09-08T14:09:29.882527-04:00"
+    description: A Helm chart for vaprofile common services
+    digest: 979ac6be2b1b26956ab8f3856df90259b42e159dd34eaa52ac7b0dbabbfb5a9d
+    name: vaprofile-common
+    type: application
+    urls:
+    - https://github.com/vgaddavcg/helm-repo/vaprofile-common-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-09-08T14:09:29.877964-04:00"
